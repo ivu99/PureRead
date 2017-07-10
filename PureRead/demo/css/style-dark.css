@@ -1,0 +1,46 @@
+body {
+    color: #b8bfc6;
+    background: #363b40;
+}
+
+.article strong,
+.article b {
+    color: #b8bfc6;
+}
+
+.article {
+    background: #363b40;
+    color: #b8bfc6;
+}
+
+.article a:link,
+.article a:visited {
+    color: #e0e0e0;
+}
+
+.article a:hover {
+    color: #fff;
+}
+
+.article h1,
+.article h2,
+.article h3,
+.article h4,
+.article h5,
+.article h6 {
+    color: #dedede;
+}
+
+.article pre {
+    background: #222222;
+    border: 1px solid #21273D;
+}
+
+.article code {
+    padding: 0.5rem 0;
+}
+
+.article-end {
+    color: #fff;
+    background: #424242;
+}
