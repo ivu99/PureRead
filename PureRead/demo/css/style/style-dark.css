@@ -36,11 +36,23 @@ body {
     border: 1px solid #21273D;
 }
 
-.article code {
-    padding: 0.5rem 0;
+.article-end {
+    color: white;
+    background: #424242;
 }
 
-.article-end {
-    color: #fff;
-    background: #424242;
+.article table th,
+.article table td,
+.article table caption {
+    border: 1px solid #ddd;
+}
+
+.article table thead th {
+    color: #dedede;
+}
+
+.article em,
+.article legend,
+.article caption {
+    color: #dedede;
 }

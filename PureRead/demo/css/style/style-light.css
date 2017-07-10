@@ -1,0 +1,60 @@
+body {
+    color: #363636;
+    background-color: #fff;
+}
+
+.article strong,
+.article b {
+    color: #333;
+}
+
+.article {
+    background-color: #fff;
+    color: #363636;
+}
+
+.article a:link,
+.article a:visited {
+    color: #1abc9c;
+}
+
+.article a:hover {
+    border-bottom-color: #555;
+    color: #555;
+    text-decoration: none;
+}
+
+.article h1,
+.article h2,
+.article h3,
+.article h4,
+.article h5,
+.article h6 {
+    color: #333;
+}
+
+.article pre {
+    background: #F4F4EC;
+    border: 1px solid #ddd;
+}
+
+.article-end {
+    color: #dedede;
+    background: #424242;
+}
+
+.article table th,
+.article table td,
+.article table caption {
+    border: 1px solid #ddd;
+    padding: 0.5em 1em;
+    color: #666;
+}
+
+.article table th {
+    background: #f1f1f1;
+}
+
+.article code {
+    color: #1abc9c;
+}
